@@ -36,7 +36,7 @@
         <kp-rpg.groupId>de.kaiserpfalz-edv.rpg</kp-rpg.groupId>
         <kp-rpg.version>1.2.0-SNAPSHOT</kp-rpg.version>
 
-        <vaadin.version>14.5.3</vaadin.version>
+        <vaadin.version>20.0.4</vaadin.version>
         <discord.version>3.5.0_329</discord.version>
         <kp-commons.version>2.0.2-SNAPSHOT</kp-commons.version>
 
